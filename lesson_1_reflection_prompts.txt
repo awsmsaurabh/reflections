@@ -46,3 +46,6 @@ while others, like Google Docs, treat each file separately?
 How can you use the commands git log and git diff to view the history of files?
 	Fill in your answer here
 How might using version control make you more confident to make changes that could break something?
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
